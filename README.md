@@ -14,5 +14,5 @@ Tracking my problem-solving journey.
 | neet      | [Binary Search](https://neetcode.io/problems/binary-search/question?list=neetcode150)                         | Easy       | [Python](./binary-search/neet-binary-search.py)          | Binary search  |
 | neet      | [Two Integer Sum II](https://neetcode.io/problems/two-integer-sum-ii/question?list=neetcode150)               | Medium     | [Python](./two-pointers/neet-two-integer-sum.py)         | Two pointers   |
 | neet      | [Search a 2D Matrix](https://neetcode.io/problems/search-2d-matrix/question?list=neetcode150)                 | Medium     | [Python](./binary-search/neet-search-2d-matrix.py)       | Binary search  |
-| 0001      | [Two Sum](https://leetcode.com/problems/two-sum/)                                                             | Easy       | [Python](./arrays-and-hashing/0001-two-sum.py)           | Arrays         |
+| neet      | [Min Stack](https://neetcode.io/problems/minimum-stack/question?list=neetcode150)                             | Medium     | [Python](./stack/neet-min-stack.py)                      | Stack          |
 | 0001      | [Two Sum](https://leetcode.com/problems/two-sum/)                                                             | Easy       | [Python](./arrays-and-hashing/0001-two-sum.py)           | Arrays         |
