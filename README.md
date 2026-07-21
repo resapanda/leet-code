@@ -16,3 +16,4 @@ Tracking my problem-solving journey.
 | neet      | [Search a 2D Matrix](https://neetcode.io/problems/search-2d-matrix/question?list=neetcode150)                 | Medium     | [Python](./binary-search/neet-search-2d-matrix.py)            | Binary search  |
 | neet      | [Min Stack](https://neetcode.io/problems/minimum-stack/question?list=neetcode150)                             | Medium     | [Python](./stack/neet-min-stack.py)                           | Stack          |
 | neet      | [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list/question?list=neetcode150)      | Medium     | [Python](./arrays-and-hashing/neet-topk-frequent-elements.py) | Arrays         |
+| neet      | [Reverse Linked List](https://neetcode.io/problems/reverse-a-linked-list/question?list=neetcode150)           | Easy       | [Python](./linked-list/neet-reverse-linked-list.py)           | Linked list    |
