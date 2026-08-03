@@ -19,3 +19,4 @@ Tracking my problem-solving journey.
 | neet      | [Reverse Linked List](https://neetcode.io/problems/reverse-a-linked-list/question?list=neetcode150)                   | Easy       | [Python](./linked-list/neet-reverse-linked-list.py)           | Linked list    |
 | neet      | [Merge Two Sorted Linked Lists](https://neetcode.io/problems/merge-two-sorted-linked-lists/question?list=neetcode150) | Easy       | [Python](./linked-list/neet-merge-linked-lists.py)            | Linked list    |
 | neet      | [Invert Binary Tree](https://neetcode.io/problems/invert-a-binary-tree/question?list=neetcode150)                     | Easy       | [Python](./trees/neet-invert-binary-tree.py)                  | Tree           |
+| neet      | [Maximum Depth of Binary Tree](https://neetcode.io/problems/depth-of-binary-tree/question?list=neetcode150)           | Easy       | [Python](./trees/neet-max-depth-binary-tree.py)               | Tree           |
