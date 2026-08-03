@@ -18,3 +18,4 @@ Tracking my problem-solving journey.
 | neet      | [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list/question?list=neetcode150)              | Medium     | [Python](./arrays-and-hashing/neet-topk-frequent-elements.py) | Arrays         |
 | neet      | [Reverse Linked List](https://neetcode.io/problems/reverse-a-linked-list/question?list=neetcode150)                   | Easy       | [Python](./linked-list/neet-reverse-linked-list.py)           | Linked list    |
 | neet      | [Merge Two Sorted Linked Lists](https://neetcode.io/problems/merge-two-sorted-linked-lists/question?list=neetcode150) | Easy       | [Python](./linked-list/neet-merge-linked-lists.py)            | Linked list    |
+| neet      | [Invert Binary Tree](https://neetcode.io/problems/invert-a-binary-tree/question?list=neetcode150)                     | Easy       | [Python](./trees/neet-invert-binary-tree.py)                  | Tree           |
