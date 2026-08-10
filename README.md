@@ -20,3 +20,4 @@ Tracking my problem-solving journey.
 | neet      | [Merge Two Sorted Linked Lists](https://neetcode.io/problems/merge-two-sorted-linked-lists/question?list=neetcode150) | Easy       | [Python](./linked-list/neet-merge-linked-lists.py)            | Linked list    |
 | neet      | [Invert Binary Tree](https://neetcode.io/problems/invert-a-binary-tree/question?list=neetcode150)                     | Easy       | [Python](./trees/neet-invert-binary-tree.py)                  | Tree           |
 | neet      | [Maximum Depth of Binary Tree](https://neetcode.io/problems/depth-of-binary-tree/question?list=neetcode150)           | Easy       | [Python](./trees/neet-max-depth-binary-tree.py)               | Tree           |
+| neet      | [Koko Eating Bananas](https://neetcode.io/problems/eating-bananas/question?list=neetcode150)                          | Medium     | [Python](./binary-search/neet-koko-eating-bananas.py)         | Binary search  |
