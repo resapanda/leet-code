@@ -22,3 +22,4 @@ Tracking my problem-solving journey.
 | neet      | [Maximum Depth of Binary Tree](https://neetcode.io/problems/depth-of-binary-tree/question?list=neetcode150)                 | Easy       | [Python](./trees/neet-max-depth-binary-tree.py)               | Tree           |
 | neet      | [Koko Eating Bananas](https://neetcode.io/problems/eating-bananas/question?list=neetcode150)                                | Medium     | [Python](./binary-search/neet-koko-eating-bananas.py)         | Binary search  |
 | neet      | [Evaluate Reverse Polish Notation](https://neetcode.io/problems/evaluate-reverse-polish-notation/question?list=neetcode150) | Medium     | [Python](./stack/neet-evaluate-reverse-polish-notation.py)    | Stack          |
+| neet      | [Linked List Cycle Detection](https://neetcode.io/problems/linked-list-cycle-detection/question?list=neetcode150)           | Easy       | [Python](./linked-list/neet-linked-list-cycle-detection.py)   | Linked list    |
